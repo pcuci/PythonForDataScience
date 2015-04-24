@@ -2,3 +2,4 @@
 .pydevproject
 data/
 *.pyc
+.ipynb_checkpoints/
